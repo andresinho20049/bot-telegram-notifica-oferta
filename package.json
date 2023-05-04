@@ -9,14 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.13",
+    "@unform/core": "^2.1.6",
+    "@unform/web": "^2.1.6",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.4",
+    "jose": "^4.14.4",
+    "js-cookie": "^3.0.5",
+    "level": "^8.0.0",
+    "next": "13.3.4",
+    "nookies": "^2.5.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "@mui/types": "^7.2.3",
     "@types/node": "18.16.3",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
-    "eslint": "8.39.0",
-    "eslint-config-next": "13.3.4",
-    "next": "13.3.4",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
     "typescript": "5.0.4"
   }
 }
