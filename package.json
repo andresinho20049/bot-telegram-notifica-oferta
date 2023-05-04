@@ -16,6 +16,7 @@
     "@mui/material": "^5.10.13",
     "@unform/core": "^2.1.6",
     "@unform/web": "^2.1.6",
+    "axios": "^1.4.0",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.4",
     "jose": "^4.14.4",
